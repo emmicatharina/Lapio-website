@@ -1,8 +1,22 @@
+p {
+        color: blue;
+        text-transform: uppercase;
+        text-align: center;
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
 .first-box-container {
     width: 200px;
     height: 100px;
     background-color: red;
     position: absolute;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
 }
 
 .second-box-container {
@@ -11,12 +25,19 @@
     background-color: yellow;
     position: absolute;
     left: 250px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
 }
 
 .third-box-container {
     width: 200px;
     height: 100px;
     background-color: green;
+
     position: absolute;
     left: 500px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
 }
