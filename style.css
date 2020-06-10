@@ -1,3 +1,23 @@
 p {
-    background-color: red;
+    color: darkred;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: darkred;
+}
+
+h3 {
+    color: darkred;
+}
+
+ul {
+    color: pink;
+}
+
+.punainen-teksti {
+    color: red;
 }
